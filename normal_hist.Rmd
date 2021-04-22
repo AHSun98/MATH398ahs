@@ -1,0 +1,19 @@
+---
+title: "Normal Histogram"
+author: "Tony Sun"
+date: "April 22, 2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
+

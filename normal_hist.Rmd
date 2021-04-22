@@ -17,3 +17,5 @@ Y<- rnorm( 100)
 hist( Y)
 ```
 
+Karl Frederick Gauss was a very influential mathematician.
+![](Gauss.jpg){width=30%}
